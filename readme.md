@@ -1,2 +1,2 @@
 Meu primeiro sistema no GIT
-Alearações feitas no  master
+Alearações feitas no  MASTER
