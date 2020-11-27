@@ -1,1 +1,3 @@
-script js
+function(){
+    alert('Olá Mundo');
+}
